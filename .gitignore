@@ -1,0 +1,24 @@
+# Raw data (too large for GitHub)
+data/
+
+# DuckDB database files
+*.duckdb
+*.duckdb.wal
+
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Logs and exports
+logs/*.log
+exports/
+
+# Editor and OS files
+.vscode/
+Thumbs.db
